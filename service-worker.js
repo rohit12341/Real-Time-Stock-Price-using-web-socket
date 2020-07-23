@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rohit12341/Real-Time-Stock-Price-using-web-socket/precache-manifest.89e9193477ffe0ae423bfb0e19ff819e.js"
+  "/Real-Time-Stock-Price-using-web-socket/precache-manifest.6ae22bfa9dafa471abb646ef707e611c.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/rohit12341/Real-Time-Stock-Price-using-web-socket/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/Real-Time-Stock-Price-using-web-socket/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });
