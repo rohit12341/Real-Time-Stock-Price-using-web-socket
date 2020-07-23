@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rohit12341/Real-Time-Stock-Price-using-web-socket/static/css/main.a7051032.chunk.css",
+    "main.js": "/rohit12341/Real-Time-Stock-Price-using-web-socket/static/js/main.dd99fb87.chunk.js",
+    "main.js.map": "/rohit12341/Real-Time-Stock-Price-using-web-socket/static/js/main.dd99fb87.chunk.js.map",
+    "runtime-main.js": "/rohit12341/Real-Time-Stock-Price-using-web-socket/static/js/runtime-main.55a11af2.js",
+    "runtime-main.js.map": "/rohit12341/Real-Time-Stock-Price-using-web-socket/static/js/runtime-main.55a11af2.js.map",
+    "static/js/2.d69ee06d.chunk.js": "/rohit12341/Real-Time-Stock-Price-using-web-socket/static/js/2.d69ee06d.chunk.js",
+    "static/js/2.d69ee06d.chunk.js.map": "/rohit12341/Real-Time-Stock-Price-using-web-socket/static/js/2.d69ee06d.chunk.js.map",
+    "index.html": "/rohit12341/Real-Time-Stock-Price-using-web-socket/index.html",
+    "precache-manifest.89e9193477ffe0ae423bfb0e19ff819e.js": "/rohit12341/Real-Time-Stock-Price-using-web-socket/precache-manifest.89e9193477ffe0ae423bfb0e19ff819e.js",
+    "service-worker.js": "/rohit12341/Real-Time-Stock-Price-using-web-socket/service-worker.js",
+    "static/css/main.a7051032.chunk.css.map": "/rohit12341/Real-Time-Stock-Price-using-web-socket/static/css/main.a7051032.chunk.css.map",
+    "static/js/2.d69ee06d.chunk.js.LICENSE.txt": "/rohit12341/Real-Time-Stock-Price-using-web-socket/static/js/2.d69ee06d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55a11af2.js",
+    "static/js/2.d69ee06d.chunk.js",
+    "static/css/main.a7051032.chunk.css",
+    "static/js/main.dd99fb87.chunk.js"
+  ]
+}
